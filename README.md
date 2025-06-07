@@ -1,14 +1,13 @@
-<h1 align="center">Hi I'm Gricey</h1>
+# Hi I'm Gricey
 
-
-### About Me
+## About Me
 
 I'm a creative mind bridging the worlds of **bioinformatics, visual arts, and tech**.  
 Currently a Bachelor’s student in **Bioinformatics at Lyon 1 University**, I love learning by doing, overcoming complex challenges, and exploring cross-disciplinary projects.  
 I design, I code, I illustrate — always seeking to bring ideas to life through both science and art.
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p>
   <a href="https://skillicons.dev">
@@ -18,7 +17,7 @@ I design, I code, I illustrate — always seeking to bring ideas to life through
 
 
 
-### Support:
+## Support:
 
 <p>
   <a href="https://www.buymeacoffee.com/gricey" target="_blank">
