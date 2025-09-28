@@ -11,7 +11,7 @@ I design, I code, I illustrate — always seeking to bring ideas to life through
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,atom,blender,cpp,css,discord,firebase,flask,git,github,gitlab,html,ai,java,js,latex,linux,ps,php,postgres,py,r,swift,vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,atom,bash,blender,cpp,css,discord,firebase,flask,git,github,gitlab,html,ai,java,js,latex,linux,ps,php,postgres,py,r,swift,vscode" />
   </a>
 </p>
 
